@@ -37,11 +37,11 @@ Estos insights permiten avanzar hacia la construcción de modelos de clasificaci
 - Python
 - Pandas, Numpy
 - Matplotlib, Seaborn
-- Jupyter Notebook
+- Google Collab Notebook
 
 ## 👤 Autor
 Bruno Nicolás Huerres  
-Comisión 75655 - Coderhouse  
-Proyecto de Ciencia de Datos
+Comisión 67485 - Coderhouse  
+Proyecto de Ciencia de Datos II
 
 ¡Gracias por visitar este proyecto! Si te resultó útil, no dudes en dejar una estrella ⭐ o contactarme por LinkedIn.
